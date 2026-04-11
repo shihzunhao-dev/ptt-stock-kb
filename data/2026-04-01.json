@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-01",
+  "weekday": "二",
+  "summary": "記憶體題材回溫 · 伊朗停火傳言 · AI 先進製程",
+  "events": [
+    {
+      "type": "market",
+      "title": "美光強彈近 5%，記憶體題材回溫",
+      "body": "摩根士丹利報告指出記憶體採購量並未減少，市場傳言「被錯殺」，美光單日強彈近 5%，帶動記憶體族群走強。",
+      "impacts": [{"label": "美光 +5%", "dir": "up"}, {"label": "記憶體族群", "dir": "up"}]
+    },
+    {
+      "type": "war",
+      "title": "川普聲稱「伊朗總統求停火」",
+      "body": "川普在社群媒體稱伊朗請求停火，暗示中東衝突有望落幕，美股盤前開高，但市場多持半信半疑態度。",
+      "impacts": [{"label": "美股開高", "dir": "up"}, {"label": "市場半信半疑", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "AI 先進製程年增衝 36%",
+      "body": "報導指 AI 重塑晶圓代工版圖，先進製程需求持續強勁，年增幅預估達 36%，台積電受惠最深。",
+      "impacts": [{"label": "半導體題材", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "彭博：SpaceX 已提交 IPO 申請",
+      "body": "彭博報導 SpaceX 秘密提交 IPO，引發市場對太空科技投資的廣泛討論。",
+      "impacts": [{"label": "太空題材", "dir": "up"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "💾", "title": "[新聞] 美光強彈近5% 記憶體投資行情回來了？", "url": "https://www.ptt.cc/bbs/Stock/M.1775082006.A.001.html", "author": "yipi1357", "date": "4/01"},
+    {"cat": "news", "icon": "🌏", "title": "[新聞] AI重塑晶圓代工版圖！先進製程年增衝36%", "url": "https://www.ptt.cc/bbs/Stock/M.1775071234.A.002.html", "author": "Su22", "date": "4/01"},
+    {"cat": "news", "icon": "🚀", "title": "[新聞] 彭博：SpaceX已提交IPO申請", "url": "https://www.ptt.cc/bbs/Stock/M.1775062345.A.003.html", "author": "awhat", "date": "4/01"},
+    {"cat": "news", "icon": "🌏", "title": "[新聞] 川普暗示中東衝突有望落幕 美股又開高！", "url": "https://www.ptt.cc/bbs/Stock/M.1775058000.A.004.html", "author": "humbler", "date": "4/01"},
+    {"cat": "news", "icon": "💊", "title": "[新聞] Nike中國市場銷售陡降 Q4財測由增轉減", "url": "https://www.ptt.cc/bbs/Stock/M.1775059000.A.005.html", "author": "Lime5566", "date": "4/01"}
+  ],
+  "metrics": []
+}

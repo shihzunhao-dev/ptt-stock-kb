@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-10",
+  "weekday": "四",
+  "summary": "台積電 Q1 爆表 +45.2% · 美 CPI 數據 · 國安基金例會",
+  "events": [
+    {
+      "type": "tsmc",
+      "title": "🚀 台積電 3 月營收 +45.2% YoY，Q1 大爆表",
+      "body": "3 月月增 +30.7%、年增 +45.2%，Q1 累計 1 兆 1,341 億（+35.1% YoY），遠超財測高標。N2、N3 產能已全數售罄。PTT 推文超過 500 則，目標看 2,330 元。",
+      "impacts": [{"label": "Q1 +35.1%", "dir": "up"}, {"label": "N2/N3 售罄", "dir": "up"}, {"label": "目標 $2,330", "dir": "up"}]
+    },
+    {
+      "type": "fed",
+      "title": "美國核心 3 月 CPI 數據公布",
+      "body": "市場高度關注美國核心 CPI，牽動 Fed 降息時間表。背景為國際油價漲 57.2% 的滯後效應即將反映在 4 月數據中。",
+      "impacts": [{"label": "通膨關鍵", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "國安基金 4/13 例會，第十度可能護盤",
+      "body": "若股市再度下跌，國安基金將在 4/13 例會評估是否第十度進場護盤，市場預期有撐。",
+      "impacts": [{"label": "護盤預期", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "謝金河點名台股「第二座護國神山」",
+      "body": "財信傳媒董事長謝金河點名特定公司有機會成為台股下一個護國神山級標的，引發 PTT 熱議猜測。",
+      "impacts": [{"label": "護國神山題材", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "Intel 加入馬斯克 Terafab 計畫",
+      "body": "Intel 宣布加入馬斯克主導的 Terafab 超大規模晶圓廠計畫，科技巨頭整合趨勢明顯。",
+      "impacts": [{"label": "Intel 題材", "dir": "up"}]
+    }
+  ],
+  "articles": [
+    {"cat": "data", "icon": "💎", "title": "[情報] 台積公司2026年3月營收報告 y+45.2%", "url": "https://www.ptt.cc/bbs/Stock/M.1775799049.A.223.html", "author": "MOMO0478", "date": "4/10", "hot": true},
+    {"cat": "news", "icon": "🛡️", "title": "[新聞] 國安基金13日召開例會第十度進場護盤？", "url": "https://www.ptt.cc/bbs/Stock/M.1775792653.A.864.html", "author": "yousking", "date": "4/10"},
+    {"cat": "news", "icon": "💻", "title": "[新聞] Intel加入馬斯克Terafab計畫", "url": "https://www.ptt.cc/bbs/Stock/M.1775791901.A.56F.html", "author": "asin404", "date": "4/10"},
+    {"cat": "news", "icon": "💎", "title": "[新聞] 另一座護國神山？謝金河點名1公司躍台股", "url": "https://www.ptt.cc/bbs/Stock/M.1775830738.A.E0E.html", "author": "relax911", "date": "4/10"},
+    {"cat": "news", "icon": "💾", "title": "[新聞] 機構預測2026年英偉達高端GPU出貨比例下降", "url": "https://www.ptt.cc/bbs/Stock/M.1775793231.A.A1F.html", "author": "icrose", "date": "4/10"},
+    {"cat": "news", "icon": "💰", "title": "[新聞] 力積電看營運谷底已過 本業拚轉盈", "url": "https://www.ptt.cc/bbs/Stock/M.1775797064.A.3D5.html", "author": "DrowningPool", "date": "4/10"}
+  ],
+  "metrics": [
+    {"label": "台積電 3 月營收年增", "value": "+45.2%", "sub": "Q1 累計 +35.1%", "color": "green"},
+    {"label": "Q1 累計營收", "value": "1.13兆", "sub": "遠超財測高標", "color": "blue"}
+  ]
+}

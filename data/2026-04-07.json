@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-07",
+  "weekday": "一",
+  "summary": "00981A 破千億 · AI 終端時代 · 荷姆茲通行費爭議",
+  "events": [
+    {
+      "type": "war",
+      "title": "川普：荷姆茲海峽應由美國收「通行費」",
+      "body": "川普發文要求在荷姆茲海峽向過往船隻收取通行費，各方評析此為「新殖民主義」，外交談判陷入僵局。",
+      "impacts": [{"label": "外交僵局", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "00981A（美國公債 ETF）規模突破千億",
+      "body": "陳重銘分析 00981A 能贏 0050 的關鍵，資金持續流入債券 ETF，市場避險需求明顯。",
+      "impacts": [{"label": "債券 ETF 熱", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "[心得] 終端 AI 時代來臨，聯發科 TPU 題材受外資看好",
+      "body": "作者 neo5277 論述 AI 從雲端走向終端裝置的趨勢，聯發科 TPU 受外資關注，AI 終端題材持續發酵。",
+      "impacts": [{"label": "聯發科", "dir": "up"}, {"label": "AI 終端", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "人民幣成全球第三大支付貨幣",
+      "body": "SWIFT 數據確認人民幣躍升全球第三大支付貨幣，中東衝突加速去美元化討論，引發 PTT 長期影響台股討論。",
+      "impacts": [{"label": "去美元化", "dir": "neutral"}]
+    }
+  ],
+  "articles": [
+    {"cat": "analysis", "icon": "🤖", "title": "[心得] 終端AI的時代來臨了", "url": "https://www.ptt.cc/bbs/Stock/M.1775493425.A.D22.html", "author": "neo5277", "date": "4/07"},
+    {"cat": "news", "icon": "💰", "title": "[新聞] 00981A規模破千億 陳重銘揭贏0050關鍵", "url": "https://www.ptt.cc/bbs/Stock/M.1775521352.A.2DB.html", "author": "IzumiKonata", "date": "4/07"},
+    {"cat": "news", "icon": "🌏", "title": "[新聞] 川普：該由美國收荷姆茲海峽「通行費」", "url": "https://www.ptt.cc/bbs/Stock/M.1775525645.A.198.html", "author": "a5687920", "date": "4/07"},
+    {"cat": "news", "icon": "💱", "title": "[新聞] 人民幣悄然成為「世界第3大支付貨幣」", "url": "https://www.ptt.cc/bbs/Stock/M.1775539687.A.51C.html", "author": "zeumax", "date": "4/07"},
+    {"cat": "news", "icon": "🚢", "title": "[新聞] 荷莫茲海峽實質關閉？華爾街分析師親訪報告", "url": "https://www.ptt.cc/bbs/Stock/M.1775532141.A.27B.html", "author": "chordate", "date": "4/07"},
+    {"cat": "news", "icon": "📺", "title": "[新聞] 30年未見漲勢！「停滯產業」翻身", "url": "https://www.ptt.cc/bbs/Stock/M.1775523680.A.B33.html", "author": "brbear", "date": "4/07"}
+  ],
+  "metrics": []
+}

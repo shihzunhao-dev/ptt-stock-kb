@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-04",
+  "weekday": "五",
+  "summary": "台股四大題材 · 川普 48 小時最後通牒 · 鋼鐵族群反彈",
+  "events": [
+    {
+      "type": "market",
+      "title": "台股四大支撐題材，台指期盤後 +372 點",
+      "body": "①3 月企業營收 ②Touch Taiwan 智慧顯示展 ③VLSI TSA 研討會 ④台積電法說（N2/N3 已售罄）。台指期收 32,877 點，季線支撐受關注。",
+      "impacts": [{"label": "台指期 +372", "dir": "up"}, {"label": "AI 半導體", "dir": "up"}, {"label": "台積電法說前哨", "dir": "up"}]
+    },
+    {
+      "type": "war",
+      "title": "川普在 Truth Social 發出「48 小時最後通牒」",
+      "body": "川普發文稱「還有 48 小時，地獄將降臨」，要求伊朗開放荷姆茲海峽。PTT 網友大量討論「TACO（食言王）」，但也憂慮台股週一開盤壓力。",
+      "impacts": [{"label": "台股週一風險", "dir": "down"}, {"label": "市場半信半疑", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "伊朗鋼廠被炸，中鋼 5 月盤價喊漲",
+      "body": "伊朗兩大鋼廠遭美軍空襲，全球鋼鐵供應缺口擴大。中鋼宣布 5 月盤價上漲，榮剛、世紀鋼等發出「築底完成」訊號。",
+      "impacts": [{"label": "中鋼 ↑", "dir": "up"}, {"label": "大成鋼 ↑", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "蘋果巨資買斷行動 DRAM，記憶體漲價成武器",
+      "body": "報導指蘋果為確保供應鏈穩定，以鉅資買斷行動 DRAM 產能，記憶體廠商定價權增強。",
+      "impacts": [{"label": "記憶體漲價", "dir": "up"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "🏭", "title": "[新聞] 台股四題材 點燃多頭火種", "url": "https://www.ptt.cc/bbs/Stock/M.1775303593.A.573.html", "author": "relax911", "date": "4/04"},
+    {"cat": "news", "icon": "⏰", "title": "[情報] 川普: 倒數48小時（最後通牒）", "url": "https://www.ptt.cc/bbs/Stock/M.1775312230.A.C3B.html", "author": "aatzeng", "date": "4/04"},
+    {"cat": "news", "icon": "🏗️", "title": "[新聞] 伊朗兩大鋼廠被炸…中鋼5月盤價喊漲", "url": "https://www.ptt.cc/bbs/Stock/M.1775303327.A.3F5.html", "author": "brbear", "date": "4/04"},
+    {"cat": "news", "icon": "💾", "title": "記憶體漲價變武器！蘋果巨資買斷行動DRAM", "url": "https://www.ptt.cc/bbs/Stock/M.1775298275.A.83E.html", "author": "ShaoJi", "date": "4/04"},
+    {"cat": "news", "icon": "💊", "title": "[新聞] 藥品關稅來襲 藥華藥稱Ropeg具孤兒藥豁免", "url": "https://www.ptt.cc/bbs/Stock/M.1775303289.A.BF3.html", "author": "a6435966", "date": "4/04"}
+  ],
+  "metrics": []
+}

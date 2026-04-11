@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-02",
+  "weekday": "三",
+  "summary": "川普宣稱對伊朗大勝 · 巴菲特看空 · 台塑事件",
+  "events": [
+    {
+      "type": "war",
+      "title": "川普全國演說：宣稱對伊朗「壓倒性勝利」",
+      "body": "川普在全國電視演說聲稱伊朗武器系統大幅削減、海軍與空軍殲滅。但市場對「單方面宣布勝利」持懷疑態度，荷姆茲海峽仍封閉，擔憂全球供應鏈受衝擊。",
+      "impacts": [{"label": "市場疑慮", "dir": "down"}, {"label": "荷姆茲仍封", "dir": "down"}]
+    },
+    {
+      "type": "market",
+      "title": "「股神」巴菲特：股票還不夠便宜",
+      "body": "巴菲特發表偏空言論，同時警告「若伊朗有核武，全球核災更難避免」，市場解讀為審慎訊號。",
+      "impacts": [{"label": "審慎偏空", "dir": "down"}]
+    },
+    {
+      "type": "market",
+      "title": "台塑塑膠袋亂象，士林地檢搜索",
+      "body": "台灣塑膠袋短缺引發民怨，綠委點名台塑，士林地檢晚間進行搜索調查，台塑族群承壓。",
+      "impacts": [{"label": "台塑族群壓力", "dir": "down"}]
+    },
+    {
+      "type": "market",
+      "title": "甲骨文爆全球裁員 3 萬人",
+      "body": "科技業寒冬訊號，甲骨文宣布大規模裁員，引發 PTT 對科技業景氣的廣泛討論。",
+      "impacts": [{"label": "科技業警示", "dir": "down"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "🌏", "title": "[新聞] 川普全國演說：對伊朗戰爭取得壓倒性勝利", "url": "https://www.ptt.cc/bbs/Stock/M.1775094997.A.ED1.html", "author": "CTC0115", "date": "4/02"},
+    {"cat": "news", "icon": "💰", "title": "[新聞] 「股神」巴菲特：股票還不夠便宜", "url": "https://www.ptt.cc/bbs/Stock/M.1775091460.A.F1E.html", "author": "komeko", "date": "4/02"},
+    {"cat": "news", "icon": "🏭", "title": "[新聞] 為解決塑膠袋之亂 鄭麗君：協調台塑增產", "url": "https://www.ptt.cc/bbs/Stock/M.1775117542.A.471.html", "author": "thinksilver", "date": "4/02"},
+    {"cat": "news", "icon": "🔒", "title": "[新聞] 政院拍板「虛擬資產服務法」草案 操縱價格入刑", "url": "https://www.ptt.cc/bbs/Stock/M.1775117802.A.B98.html", "author": "leptoneta", "date": "4/02"},
+    {"cat": "news", "icon": "🤖", "title": "[新聞] 彭博：OpenAI在次級市場乏人問津 投資人退燒", "url": "https://www.ptt.cc/bbs/Stock/M.1775123632.A.794.html", "author": "AnimalSpirit", "date": "4/02"},
+    {"cat": "data", "icon": "📊", "title": "[情報] 0402 上市櫃外資投信買超金額排行", "url": "https://www.ptt.cc/bbs/Stock/M.1775124631.A.B5C.html", "author": "steveisaman", "date": "4/02"}
+  ],
+  "metrics": []
+}

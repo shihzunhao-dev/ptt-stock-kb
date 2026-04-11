@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-09",
+  "weekday": "三",
+  "summary": "伊朗突襲沙國油管 · Fed 降息黯淡 · 台積電配息日",
+  "events": [
+    {
+      "type": "war",
+      "title": "才說停火就開打！伊朗突襲沙國輸油管",
+      "body": "停火僅一天，伊朗突然攻擊沙烏地阿拉伯輸油管，引發「才說停火就開打」的嘲諷。能源市場再度緊張，油價回升。",
+      "impacts": [{"label": "油價再起", "dir": "down"}, {"label": "停火不可信", "dir": "down"}]
+    },
+    {
+      "type": "fed",
+      "title": "Fed 傳聲筒：降息前景已轉趨黯淡",
+      "body": "WSJ 記者 Nick Timiraos 指出，即使美伊停火，通膨黏著問題仍使降息條件嚴苛。主因：能源漲價滯後效應、關稅衝擊、定價行為改變。官員預期今年降一次，但時點恐延後。",
+      "impacts": [{"label": "降息預期降低", "dir": "down"}]
+    },
+    {
+      "type": "tsmc",
+      "title": "台積電配息日，國發基金進帳近百億",
+      "body": "台積電現金股利發放日，國發基金因持有台積電股份，預計進帳約 100 億元，為國庫挹注活水。",
+      "impacts": [{"label": "台積電", "dir": "up"}]
+    },
+    {
+      "type": "war",
+      "title": "以色列空襲黎巴嫩後，荷姆茲海峽油輪通行再次受阻",
+      "body": "伊朗以以色列行動為由，暗示可能再次封鎖荷姆茲，市場對能源供應穩定性的疑慮升高。",
+      "impacts": [{"label": "能源危機", "dir": "down"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "💥", "title": "[新聞] 才說停火就開打！伊朗突襲沙國油管 能源危機急升溫", "url": "https://www.ptt.cc/bbs/Stock/M.1775670249.A.68F.html", "author": "yuechen", "date": "4/09"},
+    {"cat": "news", "icon": "🏦", "title": "[新聞] Fed傳聲筒：無論是否達停火協議 「降息」前景已轉趨黯淡", "url": "https://www.ptt.cc/bbs/Stock/M.1775698283.A.D7D.html", "author": "d8917936", "date": "4/09"},
+    {"cat": "news", "icon": "💰", "title": "[新聞] 台積電明天發錢了！國發基金進帳近百億", "url": "https://www.ptt.cc/bbs/Stock/M.1775690892.A.0EA.html", "author": "Reewalker", "date": "4/09"},
+    {"cat": "news", "icon": "💾", "title": "[新聞] AI吃光記憶體產能！三寡頭不急著擴產DRAM", "url": "https://www.ptt.cc/bbs/Stock/M.1775744946.A.FB6.html", "author": "yipi1357", "date": "4/09"},
+    {"cat": "news", "icon": "🌏", "title": "[新聞] 以色列空襲黎巴嫩後 伊朗再次「全面封鎖」", "url": "https://www.ptt.cc/bbs/Stock/M.1775687420.A.2CD.html", "author": "linlinme5208", "date": "4/09"},
+    {"cat": "qna", "icon": "❓", "title": "[請益] 怎麼不結合被動跟主動的選股邏輯？", "url": "https://www.ptt.cc/bbs/Stock/M.1775692969.A.D67.html", "author": "junior020486", "date": "4/09"}
+  ],
+  "metrics": []
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-06",
+  "weekday": "日",
+  "summary": "降證交稅討論 · 鋼鐵築底訊號 · 荷姆茲週一開盤壓力",
+  "events": [
+    {
+      "type": "market",
+      "title": "川普要求重啟荷姆茲，最後通牒美東 4/7",
+      "body": "川普設定新期限，要求伊朗在美東時間 4/7 前重啟荷姆茲海峽，否則採取進一步行動。荷莫茲局部放行消息帶動日韓股市週一早盤走高。",
+      "impacts": [{"label": "日韓早盤上漲", "dir": "up"}, {"label": "期限壓力", "dir": "down"}]
+    },
+    {
+      "type": "market",
+      "title": "鋼鐵股發出「築底完成」訊號",
+      "body": "榮剛、世紀鋼等鋼鐵股出現底部技術訊號，中鋼盤價調漲預期支撐族群。",
+      "impacts": [{"label": "鋼鐵族群", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "降證交稅呼聲高，財部：先檢討手續費",
+      "body": "市場要求降低證交稅的呼聲升高，財政部回應暫無降稅規劃，先行檢討交易手續費。",
+      "impacts": [{"label": "政策觀察", "dir": "neutral"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "🌏", "title": "[新聞] 川普要求重啟荷姆茲海峽 最後通牒美東4/7", "url": "https://www.ptt.cc/bbs/Stock/M.1775429968.A.060.html", "author": "AnneofGreen", "date": "4/06"},
+    {"cat": "news", "icon": "🏗️", "title": "[新聞] 鋼鐵股發出「築底完成」訊號！榮剛、世紀鋼", "url": "https://www.ptt.cc/bbs/Stock/M.1775442969.A.4FE.html", "author": "brbear", "date": "4/06"},
+    {"cat": "news", "icon": "💰", "title": "[新聞] 降證交稅呼聲高 財部：先檢討手續費", "url": "https://www.ptt.cc/bbs/Stock/M.1775440231.A.EDB.html", "author": "strong66", "date": "4/06"},
+    {"cat": "news", "icon": "🚢", "title": "[新聞] 荷莫茲海峽局部放行 日韓股市周一早盤走高", "url": "https://www.ptt.cc/bbs/Stock/M.1775443600.A.0C7.html", "author": "fireflies", "date": "4/06"},
+    {"cat": "qna", "icon": "❓", "title": "[請益] 賣股票支付頭期款的策略", "url": "https://www.ptt.cc/bbs/Stock/M.1775406283.A.DD7.html", "author": "kuro44776", "date": "4/06"}
+  ],
+  "metrics": []
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-08",
+  "weekday": "二",
+  "summary": "【大事件】美伊停火台指期 +1400 點 · CPI 5 年新低 · 停火出現波折",
+  "events": [
+    {
+      "type": "market",
+      "title": "🕊️ 美伊全面停火！台指期暴漲 1400 點",
+      "body": "巴基斯坦總理宣布美伊全面停火（台灣時間上午 8 時）。台指期突破 34,600 點，漲逾 4%；日經漲 2,000 點（+4.5%）；韓綜漲 300 點（+5.88%）。亞股全面大漲。",
+      "impacts": [{"label": "台指期 +4%", "dir": "up"}, {"label": "日經 +4.5%", "dir": "up"}, {"label": "韓綜 +5.88%", "dir": "up"}]
+    },
+    {
+      "type": "war",
+      "title": "停火出現波折：以色列攻黎巴嫩，荷莫茲再暫停",
+      "body": "停火僅數小時，以色列空襲黎巴嫩，伊朗揚言退出停火，荷莫茲再度暫停通行。川普隨後又宣布對中國加徵 50% 關稅。",
+      "impacts": [{"label": "停火風險", "dir": "down"}, {"label": "中美關稅升溫", "dir": "down"}]
+    },
+    {
+      "type": "market",
+      "title": "台灣 3 月 CPI +1.2%，創 5 年新低",
+      "body": "主計總處公布，天候穩定蔬果供量充足壓低物價。政府平穩機制補貼油料費，但 4 月起遞延效果消退，漲幅恐擴大。PTT 網友普遍不買帳，認為實際物價漲幅遠超官方數據。",
+      "impacts": [{"label": "通膨暫緩", "dir": "up"}, {"label": "4月轉升", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "辜仲諒投百億買台新金 5%+，成最大股東",
+      "body": "辜仲諒透過私人管道取得台新金控逾 5% 股權，成為最大單一股東，市場高度關注辜家重返台新金的戰略意圖。",
+      "impacts": [{"label": "台新金題材", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "富時羅素確認越南升格新興市場",
+      "body": "越南股市正式晉升新興市場，預計吸引大量國際資金。PTT 討論台灣升格「已開發市場」的可能性。",
+      "impacts": [{"label": "越南升格", "dir": "up"}, {"label": "指數調整", "dir": "neutral"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "🕊️", "title": "快訊／美伊停火 台指期開盤漲逾1400點", "url": "https://www.ptt.cc/bbs/Stock/M.1775610088.A.F54.html", "author": "joanzkow", "date": "4/08", "hot": true},
+    {"cat": "news", "icon": "💥", "title": "停火喊假的？！波灣多國響起防空警報聲", "url": "https://www.ptt.cc/bbs/Stock/M.1775610610.A.129.html", "author": "joanzkow", "date": "4/08"},
+    {"cat": "data", "icon": "📊", "title": "[新聞] 3月通膨僅1.2% 創5年新低", "url": "https://www.ptt.cc/bbs/Stock/M.1775688063.A.8F2.html", "author": "a40494", "date": "4/08"},
+    {"cat": "news", "icon": "🏦", "title": "辜仲諒投百億拿下逾5%股權成最大股東 台新金", "url": "https://www.ptt.cc/bbs/Stock/M.1775620679.A.052.html", "author": "haiduc", "date": "4/08"},
+    {"cat": "news", "icon": "🌏", "title": "富時羅素確認越南升格新興市場", "url": "https://www.ptt.cc/bbs/Stock/M.1775617885.A.BE8.html", "author": "arrouzai", "date": "4/08"},
+    {"cat": "news", "icon": "🚗", "title": "特斯拉股價恐崩60%！小摩「極度看空」", "url": "https://www.ptt.cc/bbs/Stock/M.1775622959.A.2C4.html", "author": "AnimalSpirit", "date": "4/08"},
+    {"cat": "news", "icon": "🏗️", "title": "原物料價漲 中鋼、大成鋼迎反彈", "url": "https://www.ptt.cc/bbs/Stock/M.1775622740.A.253.html", "author": "brbear", "date": "4/08"}
+  ],
+  "metrics": [
+    {"label": "台指期單日最大漲幅", "value": "+1,400", "sub": "突破 34,600 點", "color": "green"},
+    {"label": "台灣 3 月 CPI", "value": "1.2%", "sub": "創 5 年新低", "color": "blue"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-05",
+  "weekday": "六",
+  "summary": "荷姆茲局部解封 · 川普最快 6 日達協議 · 沃爾瑪指標警示",
+  "events": [
+    {
+      "type": "war",
+      "title": "荷姆茲局部解封，允許基本民生物資通過",
+      "body": "伊朗宣布局部解封，允許基本民生物資船隻通行。川普稱最快 6 日與伊朗達成協議。油價從高點稍微回落。",
+      "impacts": [{"label": "油價稍回落", "dir": "up"}, {"label": "情勢仍不穩", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "「沃爾瑪指標」飆至 2008 年新高，崩盤前兆？",
+      "body": "消費者湧入超市搶購，沃爾瑪銷售指標飆升至 2008 年新高。PTT 熱議是否為「崩盤前兆」，引發恐慌性討論。",
+      "impacts": [{"label": "崩盤警示", "dir": "down"}]
+    },
+    {
+      "type": "war",
+      "title": "美軍再次空襲伊朗",
+      "body": "川普在記者會上確認美軍再次空襲，並喊話「再多一點時間就能輕鬆打開荷姆茲」，市場持續觀望談判結果。",
+      "impacts": [{"label": "衝突延續", "dir": "down"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "🛢️", "title": "[新聞] 伊朗局部解封荷莫茲海峽 允許基本物資船通行", "url": "https://www.ptt.cc/bbs/Stock/M.1775397944.A.377.html", "author": "bluedistance", "date": "4/05"},
+    {"cat": "news", "icon": "⚠️", "title": "[新聞] 崩盤前兆？「沃爾瑪指標」飆至2008年新高", "url": "https://www.ptt.cc/bbs/Stock/M.1775404959.A.AE4.html", "author": "Cartier", "date": "4/06"},
+    {"cat": "news", "icon": "🌏", "title": "[新聞] 川普：最快6日與伊朗達成協議", "url": "https://www.ptt.cc/bbs/Stock/M.1775404325.A.A19.html", "author": "lovemelissa", "date": "4/05"},
+    {"cat": "news", "icon": "🚀", "title": "[情報] 川普：快打開他媽的霍爾木茲海峽", "url": "https://www.ptt.cc/bbs/Stock/M.1775394455.A.EDD.html", "author": "TCB006", "date": "4/05"}
+  ],
+  "metrics": []
+}

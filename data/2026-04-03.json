@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-03",
+  "weekday": "四",
+  "summary": "原油飆破 141 美元 · 美藥品 100% 關稅 · 大盤高點分析",
+  "events": [
+    {
+      "type": "oil",
+      "title": "布蘭特原油現貨飆至 141.36 美元，創 2008 年來新高",
+      "body": "荷姆茲海峽持續封閉，實體油市極度緊張。現貨比 6 月期貨高出 32 美元，雪佛龍 CEO 指出期貨未反映荷姆茲封閉規模。",
+      "impacts": [{"label": "通膨壓力升高", "dir": "down"}, {"label": "油股受惠", "dir": "up"}]
+    },
+    {
+      "type": "war",
+      "title": "美軍再空襲伊朗大橋，CNN 衛星照顯示伊朗攻擊沙烏地美軍基地",
+      "body": "多國（菲律賓、印尼、印度）展開荷姆茲通行談判，商船三井 LNG 船成功通過，情勢略有緩和。",
+      "impacts": [{"label": "衝突持續", "dir": "down"}, {"label": "談判進展", "dir": "neutral"}]
+    },
+    {
+      "type": "market",
+      "title": "美宣布對進口藥品課 100% 關稅",
+      "body": "川普宣布對進口藥品課 100% 關稅，優惠名單中無台灣。藥華藥稱旗下孤兒藥 Ropeg 具豁免資格，受到市場正面解讀。",
+      "impacts": [{"label": "藥品族群壓力", "dir": "down"}, {"label": "藥華藥豁免", "dir": "up"}]
+    },
+    {
+      "type": "market",
+      "title": "[心得] 大盤高點判定：四指標預測 Q4 才是真正下跌",
+      "body": "作者 circlelee 提出景氣紅燈最高值、歷史新高成交量、融資天量、2.5 年週期四指標，預測 Q2/Q3 為收割期，Q4 才有大跌。引發社群激烈討論。",
+      "impacts": [{"label": "技術分析觀點", "dir": "neutral"}]
+    }
+  ],
+  "articles": [
+    {"cat": "news", "icon": "🛢️", "title": "[新聞] 布蘭特原油現貨飆141美元、創2008年來新高", "url": "https://www.ptt.cc/bbs/Stock/M.1775178018.A.12A.html", "author": "yousking", "date": "4/03"},
+    {"cat": "analysis", "icon": "📈", "title": "[心得] 大盤高點判定方法（四指標預測Q4下跌）", "url": "https://www.ptt.cc/bbs/Stock/M.1775174227.A.87D.html", "author": "circlelee", "date": "4/03"},
+    {"cat": "news", "icon": "💊", "title": "[新聞] 美國宣布課徵進口藥品100%關稅", "url": "https://www.ptt.cc/bbs/Stock/M.1775170768.A.44B.html", "author": "joanzkow", "date": "4/03"},
+    {"cat": "news", "icon": "📉", "title": "[新聞] 經濟前景迅速惡化！美國成長預測遭砍、通膨預期升高", "url": "https://www.ptt.cc/bbs/Stock/M.1775218372.A.02B.html", "author": "Lime5566", "date": "4/03"},
+    {"cat": "news", "icon": "🚢", "title": "[新聞] 商船三井的LNG船通過荷莫茲海峽", "url": "https://www.ptt.cc/bbs/Stock/M.1775220206.A.844.html", "author": "chordate", "date": "4/03"},
+    {"cat": "analysis", "icon": "📊", "title": "[心得] 小台程式單1、3月報", "url": "https://www.ptt.cc/bbs/Stock/M.1775225010.A.70A.html", "author": "ted6219", "date": "4/03"}
+  ],
+  "metrics": [
+    {"label": "布蘭特原油現貨", "value": "$141.36", "sub": "2008年來新高", "color": "red"},
+    {"label": "WTI 原油", "value": "$111.54", "sub": "單日 +11.41%", "color": "orange"}
+  ]
+}
