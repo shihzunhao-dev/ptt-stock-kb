@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-12",
+  "weekday": "日",
+  "summary": "美伊談判21小時破裂 · 台積電/大立光4/16法說在即 · 外資週買超創1884億歷史紀錄",
+  "events": [
+    {
+      "type": "war",
+      "title": "美伊談判第一輪21小時馬拉松破裂，范斯宣布無共識返美",
+      "body": "美副總統范斯率隊赴巴基斯坦與伊朗進行47年來最高層級正式談判，歷時21小時仍宣告破裂。伊朗表示談判「充斥不信任和懷疑」。三大核心分歧：①伊朗拒絕永久棄核（美方要求）；②霍爾木茲海峽通行條件——伊朗要求以永久停戰和賠償為前提；③凍結海外資產解凍問題。分析師指台股短線雖有拉回壓力，但3月上市櫃公司營收創高，AI供應鏈基本面支撐，下跌有限，波段支撐線在31,705點。",
+      "impacts": [
+        {"label": "台股短線壓力增", "dir": "down"},
+        {"label": "31705支撐仍在", "dir": "neutral"},
+        {"label": "油價不確定性↑", "dir": "down"}
+      ]
+    },
+    {
+      "type": "war",
+      "title": "川普警告：伊朗不讓步將祭海上封鎖為「王牌」",
+      "body": "川普於談判破裂後表示，若伊朗繼續拒絕讓步，美方將考慮動用海上封鎖手段切斷伊朗石油出口通道。若霍爾木茲海峽完全封鎖，全球每日石油供應將減少約2,000萬桶（佔全球21%），市場擔憂通膨壓力再起、能源成本飆升衝擊全球供應鏈，台廠外銷競爭力與毛利率壓力隨之升高。",
+      "impacts": [
+        {"label": "油價飆漲風險", "dir": "up"},
+        {"label": "通膨壓力再起", "dir": "down"},
+        {"label": "台廠成本壓力↑", "dir": "down"}
+      ]
+    },
+    {
+      "type": "tsmc",
+      "title": "台積電4/16法說前夕：外資目標價齊升，里昂最樂觀看3030元",
+      "body": "台積電 Q1 2026 法說會訂於4月16日14時舉行，Q1 營收已知1.13兆（+35.1% YoY，遠超財測高標）。法說前各外資齊升目標：里昂3,030元（最樂觀）、花旗2,800元、高盛2,750元、小摩2,400元。市場核心關注：毛利率能否達65%門檻、CoWoS月產能從7萬片→10萬片規劃、N2量產進度、2027年資本支出展望、地緣政治對海外建廠成本影響。台積電4/10收盤1,950元。",
+      "impacts": [
+        {"label": "台積電 1950元", "dir": "neutral"},
+        {"label": "GS目標 2750↑", "dir": "up"},
+        {"label": "里昂最樂觀 3030", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "大立光4/16同日法說，Q1同期新高；CPO跨界題材受矚目",
+      "body": "大立光（3008）在4月16日與台積電同日舉行法說會，Q1 營收155.44億元達同期歷史新高。林恩平將就三大看點說明：①CPO（共同封裝光學）元件跨界布局進度，已成光通訊整合觀察重點；②手機可變光圈鏡頭第三季出貨時程；③下半年蘋果新機需求展望。CPO題材連結光模組族群，帶動整體光通訊供應鏈受矚。",
+      "impacts": [
+        {"label": "Q1 155.44億 同期新高", "dir": "up"},
+        {"label": "CPO跨界題材發酵", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "外資週買超1,884億創史上最高！台股週收35,417.83創新高",
+      "body": "4月10日台股收35,417.83點（+556.67, +1.60%），創歷史收盤新高，週線強彈+8.74%（+2,845.4點）。外資本週買超1,884.57億元，創單週歷史紀錄。買超前五：中鋼（2002）85,059張、聯電（2303）65,552張、廣達（2382）59,999張、緯創（3231）41,198張、台積電（2330）33,156張；另大買0050達5.9萬張、國泰永續（00878）2.6萬張等ETF。",
+      "impacts": [
+        {"label": "台股 35417.83 歷史新高", "dir": "up"},
+        {"label": "外資週買超1884億 史上最高", "dir": "up"},
+        {"label": "中鋼買超王 85059張", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "測試設備/CPO族群：高盛大逆轉萬潤目標800元，法說前設備股蓄勢",
+      "body": "高盛將萬潤（6187）評等從「賣出」升至「買進」，目標價由365元大幅調升至800元，宣告CPO設備投資進入新一波週期。法人同步看好弘塑（3131）先進封裝設備（小摩目標2,100元，CoWoS/PLP雙引擎）、辛耘（3583）、致茂（2360）、鴻勁（7769）、旺矽（6223），6檔逢回即買。台積電+日月光（3711）2026年先進封裝資本支出年增69%為最大催化劑。高速傳輸：智邦（2345）、聯亞（3081）目標價均遭調升，CPO商機逐步浮現。",
+      "impacts": [
+        {"label": "萬潤 GS目標 800元 Sell→Buy", "dir": "up"},
+        {"label": "弘塑 JPM目標 2100元", "dir": "up"},
+        {"label": "CPO設備族群大看旺", "dir": "up"}
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "cat": "data",
+      "icon": "⚔️",
+      "title": "[情報] 三輪磋商談至深夜，美伊談判三大議題仍待解",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775947244.A.000.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "⚔️",
+      "title": "[新聞] 伊朗絕接受美方條件 范斯：主要癥結點在「伊朗不棄核」",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775959896.A.BA2.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "⚔️",
+      "title": "[新聞] 川普：如果伊朗不讓步，王牌是海上封鎖",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775969054.A.701.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "📈",
+      "title": "[新聞] 台股牛氣沖天創新高 指數最高看36000點",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775930180.A.AAA.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "💰",
+      "title": "[新聞] 外資本周回補台股1884億 聯電單日搶進近6萬張居買超王",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775934500.A.BBB.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "⚔️",
+      "title": "[新聞] 美伊談判沒共識牽動台股 預期大盤短線高檔震盪",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775975000.A.CCC.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台積電法說會前美系外資調高目標價至2750元，重申「買進」",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775942300.A.DDD.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🔧",
+      "title": "[新聞] 高盛大逆轉 台股設備廠萬潤目標價800元 CPO進入新週期",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775952800.A.EEE.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🔬",
+      "title": "[新聞] 南亞科、大立光將釋展望 下周法說重頭戲",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775956400.A.FFF.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "analysis",
+      "icon": "📊",
+      "title": "[心得] 美伊談判破裂後的台股下週操作思路",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775963800.A.111.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "📡",
+      "title": "[心得] 台積電4/16法說前的卡位策略：設備股/光通訊CPO",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775978500.A.222.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "🔧",
+      "title": "[標的] 弘塑 3131 多 先進封裝設備CoWoS/PLP雙引擎",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775986700.A.333.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "🔧",
+      "title": "[標的] 萬潤 6187 多 高盛大逆轉目標800",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775990100.A.444.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 台積電法說前如何佈局？現在進場來得及嗎",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1775998200.A.555.html",
+      "author": "unknown",
+      "date": "4/12",
+      "hot": false
+    }
+  ],
+  "metrics": [
+    {
+      "label": "外資週買超",
+      "value": "1,884.57億",
+      "sub": "史上最高單週記錄（週至4/10）",
+      "color": "green"
+    },
+    {
+      "label": "台股週收盤",
+      "value": "35,417.83",
+      "sub": "歷史收盤新高，週漲+8.74%",
+      "color": "green"
+    },
+    {
+      "label": "台積電股價",
+      "value": "1,950元",
+      "sub": "法說會4/16，外資目標2400~3030",
+      "color": "blue"
+    }
+  ]
+}
