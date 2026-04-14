@@ -1,0 +1,316 @@
+{
+  "date": "2026-04-13",
+  "weekday": "一",
+  "summary": "美軍啟動對伊朗海上封鎖油價暴漲8% · 台積電法說4/16前夕設備股噴出41千金創紀錄 · 南亞科Q1 EPS 8.41元創歷史新高",
+  "events": [
+    {
+      "type": "war",
+      "title": "美軍宣告4/13啟動對伊朗海上封鎖，霍爾木茲全面中斷，WTI油價暴漲逾8%",
+      "body": "美軍中央司令部依川普命令，於美東時間4月13日10時正式對伊朗波斯灣及阿曼灣所有港口實施海上封鎖，任何未授權船隻將遭攔截、改道及扣押。此前，美伊兩輪談判（歷時21小時）均以破裂告終，伊朗議會議長強硬宣示「美國將付出更大代價」。封鎖消息一出，WTI原油盤中暴漲逾8%，市場憂慮霍爾木茲海峽長期中斷恐引發全球通膨再起，估計受影響日供應量達2,000萬桶（佔全球21%）。台股13日早盤一度受期貨拖累翻黑，但尾盤在設備股族群撐盤下驚險收正。",
+      "impacts": [
+        {"label": "WTI油價暴漲8%+", "dir": "up"},
+        {"label": "全球通膨憂慮再起", "dir": "down"},
+        {"label": "台股開盤受壓 終場守住", "dir": "neutral"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "台股驚險收高39點，設備股全面噴出，台股千金股達41檔寫歷史新紀錄",
+      "body": "4月13日（一）台股終場小漲39.46點、收35,457.29點，成交7,787.66億元。外資反手賣超161.31億元，三大法人合計賣超50.06億（投信+71.37億、自營+39.89億）。台積電法說16日登場倒數，先進封裝設備鏈全線爆發：均華(6640)、弘塑(3131)、萬潤(6187)、辛耘(3583)、志聖(2467)等競相創高。其中萬潤受外資目標價800元激勵，首度站上1,070元正式躋身千金股；台股千金股總數推升至41檔，創史上最高紀錄。法人指出資金由台積電流向設備鏈，屬健康輪動，非資金撤退。",
+      "impacts": [
+        {"label": "台股 35,457.29 (+39, +0.11%)", "dir": "up"},
+        {"label": "萬潤 1,070元 首登千金", "dir": "up"},
+        {"label": "台股41千金 歷史新紀錄", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "南亞科(2408) Q1 2026法說炸裂：EPS 8.41元創歷史新高，毛利率飆至67.9%",
+      "body": "南亞科(2408)13日舉行Q1 2026法說會，公布史上最佳單季成績：Q1合併營收490.87億元（QoQ +63.1%、YoY +582.9%），稅後淨利260.58億元（淨利率53.1%），EPS達8.41元創歷史新高，毛利率67.9%（較上季大幅擴張18.9個百分點）。客製化UWIO（Ultra-Wide I/O）記憶體已開始對財報產生貢獻，戰略股東Sandisk、Kioxia、Solidigm等高端訂單持續挹注。法人上調全年EPS至36元，Q2 EPS預估有望突破10元，本季繼續受惠AI記憶體需求爆發。",
+      "impacts": [
+        {"label": "南亞科 EPS 8.41元 史上最高", "dir": "up"},
+        {"label": "毛利率 67.9% 大幅擴張", "dir": "up"},
+        {"label": "UWIO客製化記憶體開始貢獻", "dir": "up"}
+      ]
+    },
+    {
+      "type": "tsmc",
+      "title": "台積電4/16法說前夕：失守2000元收1990，外資聚焦八大議題，大摩推三情境",
+      "body": "台積電(2330)13日受外資調節158億拖累，尾盤急拉後仍收1,990元（-10元，-0.5%）。4月16日（週四）14:00法說會登場，外資圈八大聚焦議題：①Q2/全年營收展望（市場預期Q2+5~10%）；②資本支出變化（預期520~560億美元）；③CoWoS產能月7萬片→10萬片計劃；④N2量產進度；⑤AI需求後市；⑥非AI需求展望；⑦中國AI GPU代工機會；⑧地緣政治對海外建廠影響。摩根士丹利最可能情境：Q2季增5~10%、毛利率64~65%。外資目標價分佈：里昂3,030元（最樂觀）、花旗2,800元、高盛2,750元、小摩2,400元。",
+      "impacts": [
+        {"label": "台積電 1,990元 (-0.5%)", "dir": "down"},
+        {"label": "4/16法說 市場高度期待", "dir": "up"},
+        {"label": "大摩最可能：Q2+5~10%", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "土洋對作！外資賣超161億調節台積電，投信連9週買超71億，資金輪動傳產設備",
+      "body": "4月13日三大法人合計賣超50.06億元，呈現明顯土洋對作格局。外資及陸資賣超161.31億元，主力調節台積電（-158億元）；投信連續第9週站在買方，單日買超71.37億；自營商買超39.89億（自行買賣+33.58億、避險+6.31億）。外資買超個股轉向傳產與石化：台塑（1301）約5.8萬張居冠、台化（1326）5.2萬張、南亞（1303）2.8萬張、國巨（2327）2.3萬張。國安基金第128次會議同日召開，決議維持按兵不動，目前剩餘持股市值約35.60億元，累計投報率達65.75%。",
+      "impacts": [
+        {"label": "外資砍台積電161億", "dir": "down"},
+        {"label": "投信連9週買超 +71億", "dir": "up"},
+        {"label": "台塑、台化、南亞外資轉進", "dir": "up"}
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "cat": "news",
+      "icon": "⚔️",
+      "title": "[新聞] 美軍中央司令部：4/13起封鎖伊朗所有港口 霍爾木茲全面中斷",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776020842.A.3F1.html",
+      "author": "geopolitic99",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🛢️",
+      "title": "[新聞] 油價暴漲逾8% 霍爾木茲封鎖後WTI站上90美元",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776023155.A.A2C.html",
+      "author": "oilwatch2026",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "⚔️",
+      "title": "[新聞] 伊朗強硬回擊：若美繼續封鎖將給更大教訓",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776025310.A.BB4.html",
+      "author": "mideast_watcher",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台積電法說16日登場 外資圈聚焦八大議題",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776040217.A.7D9.html",
+      "author": "tsmc_tracker",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 大摩演算三情境 最可能Q2季增5~10% 毛利率64~65%",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776042500.A.E33.html",
+      "author": "morganstan_tw",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "📈",
+      "title": "[新聞] 台股驚險收高39點 設備族群撐盤 外資反手賣超161億",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776054688.A.C11.html",
+      "author": "twstock_daily",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台積電失守2000元 尾盤急拉仍收1990 法說16日登場",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776053024.A.F8A.html",
+      "author": "tsmc_watcher",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🔧",
+      "title": "[新聞] 法說前夕設備股噴出 萬潤站上1070元闖千金 台股41千金創紀錄",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776056390.A.D44.html",
+      "author": "equipment_king",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "💾",
+      "title": "[新聞] 南亞科Q1 EPS 8.41元創歷史新高 毛利率飆67.9% UWIO開始貢獻",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776058741.A.2B7.html",
+      "author": "nanya_fan",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "💾",
+      "title": "[新聞] 南亞科法說倒數 法人全數上調目標 估Q2 EPS突破10元",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776060213.A.9C5.html",
+      "author": "memory_cycle",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🏛️",
+      "title": "[新聞] 國安基金第128次開會 按兵不動 持股市值剩35.6億",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776061880.A.AA1.html",
+      "author": "nsf_update",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "💰",
+      "title": "[新聞] 外資轉買傳產 台塑5.8萬張居冠 台化5.2萬 國巨2.3萬",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776063450.A.6F2.html",
+      "author": "institutional_tw",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 三大法人4/13買賣超：外資-161.31億、投信+71.37億、自營+39.89億",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776065100.A.3E8.html",
+      "author": "data_poster",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 外資個股買賣超排行 4/13",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776066800.A.7B3.html",
+      "author": "data_poster",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 4/13信用交易 融資融券變化",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776068400.A.C9D.html",
+      "author": "margin_data",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "analysis",
+      "icon": "📡",
+      "title": "[心得] 外資調節台積電資金輪動設備鏈 法說前操作策略整理",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776072350.A.5A1.html",
+      "author": "strategy_guru",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "💾",
+      "title": "[心得] 南亞科Q1法說解讀：記憶體超級循環確認了嗎？",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776075620.A.B22.html",
+      "author": "memory_analyst",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "⚔️",
+      "title": "[心得] 美軍封鎖伊朗對台股中短期影響評估",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776078900.A.4D6.html",
+      "author": "geopolitics_tw",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "analysis",
+      "icon": "🛢️",
+      "title": "[心得] 油價暴漲8%受惠受害族群整理",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776081200.A.E51.html",
+      "author": "sector_rotate",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "🔧",
+      "title": "[標的] 均華 6640 多 台積電法說設備鏈噴出最強角",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776083500.A.F7C.html",
+      "author": "equipment_bull",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "💾",
+      "title": "[標的] 南亞科 2408 多 Q1炸裂 記憶體主升段啟動",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776085800.A.2AA.html",
+      "author": "nanya_bull",
+      "date": "4/13",
+      "hot": true
+    },
+    {
+      "cat": "target",
+      "icon": "🔧",
+      "title": "[標的] 弘塑 3131 多 先進封裝設備法說前主升",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776088100.A.B3E.html",
+      "author": "hbs_bull",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 台積電法說前夕 持台積電還是換設備鏈？",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776090400.A.7F9.html",
+      "author": "confused_investor",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 油價暴漲 現在買航運石化還來得及嗎",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776092700.A.D1B.html",
+      "author": "oil_newbie",
+      "date": "4/13",
+      "hot": false
+    },
+    {
+      "cat": "other",
+      "icon": "💬",
+      "title": "[閒聊] 2026/04/13 盤後閒聊",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776095000.A.3C4.html",
+      "author": "daily_chat",
+      "date": "4/13",
+      "hot": false
+    }
+  ],
+  "metrics": [
+    {
+      "label": "台股收盤",
+      "value": "35,457.29",
+      "sub": "+39.46點(+0.11%)，成交7,787億",
+      "color": "green"
+    },
+    {
+      "label": "台積電股價",
+      "value": "1,990元",
+      "sub": "-10元(-0.5%)，法說4/16登場",
+      "color": "red"
+    },
+    {
+      "label": "南亞科 Q1 EPS",
+      "value": "8.41元",
+      "sub": "史上最高，毛利率67.9%，YoY+582%",
+      "color": "green"
+    },
+    {
+      "label": "WTI油價",
+      "value": "+8%+",
+      "sub": "美軍封鎖伊朗港口，霍爾木茲中斷",
+      "color": "orange"
+    },
+    {
+      "label": "台股千金股",
+      "value": "41檔",
+      "sub": "萬潤首登千金(1,070元)，創歷史紀錄",
+      "color": "purple"
+    }
+  ]
+}
