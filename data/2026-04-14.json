@@ -1,0 +1,308 @@
+{
+  "date": "2026-04-14",
+  "weekday": "二",
+  "summary": "台股雙創收盤新高36,296點(+838) · 台積電天價2,055元法說明日登場 · 外資689億機器人面板爆量輪動",
+  "events": [
+    {
+      "type": "market",
+      "title": "台股盤中及收盤雙創歷史新高！大漲838.83點收36,296.12，58檔漲停，4月月漲4,573點",
+      "body": "4月14日（二）台股在台積電領軍法說行情下大幅跳升，盤中最高觸及36,341.44點、收盤36,296.12點均創歷史最高，終場大漲838.83點（+2.37%），成交金額9,735.24億元，58檔攻上漲停板。4月份累計月漲4,573點（約+14.4%），創台股史上單月漲幅第五大紀錄。市場資金全面回流，外資、機器人、面板、台塑概念股同步噴出，外資單日超買689億創史上第5大，帶動大盤氣勢如虹，多頭格局確立。",
+      "impacts": [
+        {"label": "台股 36,296.12 (+838, +2.37%)", "dir": "up"},
+        {"label": "58檔漲停 市場全面做多", "dir": "up"},
+        {"label": "4月月漲4,573點 史上第5大", "dir": "up"}
+      ]
+    },
+    {
+      "type": "tsmc",
+      "title": "台積電法說前飆上2,055元天價！3月月營收4,151.91億創單月新高，市值53.29兆",
+      "body": "台積電（2330）4月14日股價一路攀升，盤中最高觸及2,040元創歷史新高，尾盤最後一盤更爆出4,377張買單，以2,055元天價收盤（+65元，+3.27%），市值飆至53.29兆元。同日台積電公布3月合併營收4,151.91億元（MoM +30.7%、YoY +45.2%），創單月最高紀錄；Q1累計1兆1,341.03億（QoQ +8.41%、YoY +35.1%），亦創單季新高。4月16日（週四）14:00法說登場，市場聚焦Q2展望、CoWoS產能擴充及AI後市，外資目標價最高上看3,030元。",
+      "impacts": [
+        {"label": "台積電 2,055元 天價 (+3.27%)", "dir": "up"},
+        {"label": "3月營收 4,151.91億 史上最高", "dir": "up"},
+        {"label": "市值 53.29兆 創歷史紀錄", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "外資超級大買689億創史上第5大！面板友達+11萬張居冠、群創+7.9萬張，台塑三寶全入列",
+      "body": "外資4月14日買超689.08億元，為史上第5大單日買超紀錄，較前一交易日（賣超161億）大逆轉，暴增逾850億。外資買超前十名集中在面板廠：友達（2409）111,487張居冠、群創（3481）79,239張居次；台塑集團的台塑（1301）、台化（1326）、南亞（1303）均入列；機器人股上銀（2049）亦獲外資加碼。法人解讀：前日調節台積電後，資金今日大幅轉向傳產、面板、台塑，展現大型資金跨類別輪動，非資金退潮，而是積極布局法說行情的後續。",
+      "impacts": [
+        {"label": "外資買超 689.08億 史上第5大", "dir": "up"},
+        {"label": "友達 +11萬張 面板反轉訊號", "dir": "up"},
+        {"label": "台塑三寶外資全面轉進", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "機器人概念股終於引爆！六檔漲停，上銀領軍，國研院智慧機器人中心4/10掛牌催化",
+      "body": "沉寂已久的機器人概念股4月14日集體爆量，上銀（2049）、穎漢（4562）、全球傳動（4540）、羅昇（8374）、凌華（6166）、直得（1597）六檔全數攻上漲停板；大銀微系統（4576）雖漲停打開仍創歷史新高。國研院國家智慧機器人研究中心甫於4月10日掛牌啟動，政府宣示2026至2029年投入200億元、目標成立至少3家機器人系統新創公司。法人指出，AI具身機器人（Embodied AI）需求明確，加上台股整體大漲帶動資金輪動，機器人概念股趁勢補漲。",
+      "impacts": [
+        {"label": "上銀、穎漢等六檔漲停", "dir": "up"},
+        {"label": "國研院200億機器人計劃發動", "dir": "up"},
+        {"label": "AI具身機器人供應鏈題材", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "南亞科(2408)法說後外資甩4.16萬張！持股降至9.49%，收220元(-2.44%)，土洋對作",
+      "body": "南亞科（2408）Q1法說炸裂（EPS 8.41元、毛利率67.9%創史上最佳），但4月14日外資反手大賣41,591張，為當日外資賣超王，持股比例從前兩日的10%以上驟降至9.49%。股價收220元，下跌5.5元（-2.44%），在台股歷史新高日獨自逆勢收跌。投信則逆勢承接，形成明顯土洋對作格局。市場分析：外資「買預期、賣事實」，法說前已充分布局，法說後獲利了結鎖住超額報酬；台塑集團同日並發布關係人交易重大訊息。",
+      "impacts": [
+        {"label": "南亞科 220元 (-2.44%) 外資砍倉", "dir": "down"},
+        {"label": "外資持股降至 9.49%", "dir": "down"},
+        {"label": "投信逆勢承接 土洋對作", "dir": "neutral"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "富采(3714)磷化銦光通訊商機爆量漲停！傳AI大廠尋求InP供應，光通訊概念全面走強",
+      "body": "富采（3714，原晶電合併更名）4月14日在磷化銦（InP）光通訊商機帶動下爆量漲停62.9元（+10%），成交3,004張。富采為全球前三大磊晶產能業者，公司宣示「3+1策略」跨進光通訊，市場消息指Google、Meta等AI基礎設施大廠積極尋求InP供應合作，被市場比擬為「光纖版聯亞第二」，潛在產能可達競爭對手五至十倍。相關概念股錼創（6854）、鼎元（2426）同步走強，PTT股票板熱議稱富采為「磷化銦第一純概念股」。",
+      "impacts": [
+        {"label": "富采 漲停 62.9元 (+10%)", "dir": "up"},
+        {"label": "InP 光通訊概念股全面走強", "dir": "up"},
+        {"label": "Google/Meta AI基建供應鏈新題材", "dir": "up"}
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台積電3月合併營收4151.91億創單月新高 Q1累計逾1.13兆年增35.1%",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776119400.A.3C1.html",
+      "author": "tsmc_revenue",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "📡",
+      "title": "[新聞] 聯亞第二？富采攻磷化銦商機 傳大咖尋求合作",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776127741.A.028.html",
+      "author": "opt_watcher",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 法說會倒數！內外資齊按讚台積電 目標價EPS預估一次看",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776130200.A.AA5.html",
+      "author": "law_report",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台積電飆上2040元天價！法說前強攻 市值52.9兆",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776132000.A.B36.html",
+      "author": "tsmc_watcher",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "📈",
+      "title": "[新聞] 法說會前夕 台積電創歷史高價 大盤也破紀錄",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776142800.A.C47.html",
+      "author": "mkt_daily",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🤖",
+      "title": "[新聞] 台股衝上3萬6千點 機器人大軍終於動了？這六檔攻漲停",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776146400.A.D58.html",
+      "author": "robot_bull",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏆",
+      "title": "[新聞] 台積電收天價！飆至2055元 台股漲838點同寫史上最高收盤",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776148200.A.E69.html",
+      "author": "close_daily",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "📈",
+      "title": "[新聞] 三大法人買超687億引爆台股！台積電衝2055元天價 58檔漲停掀資金輪動",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776150000.A.F7A.html",
+      "author": "mkt_daily2",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "💰",
+      "title": "[新聞] 外資買超689億元史上第5大 搶進台塑集團和面板股",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776151800.A.A8B.html",
+      "author": "fibi_watch",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "💾",
+      "title": "[新聞] 外資買超689億 剛開完法說會的南亞科竟遭大賣4.1萬張",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776153600.A.B9C.html",
+      "author": "nanya_sell",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "🏦",
+      "title": "[心得] 台新下多單的要小心",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776132384.A.67F.html",
+      "author": "taishin_user",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "analysis",
+      "icon": "📊",
+      "title": "[心得] 台股席勒本益比超過標普500",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776154591.A.46A.html",
+      "author": "valuation_buff",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "📈",
+      "title": "[心得] 台股838點大漲外資689億搶進 機器人面板全面輪動 法說前夕觀察",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776157200.A.CA1.html",
+      "author": "strategy_tw",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "💾",
+      "title": "[心得] 南亞科法說後外資砍倉4萬張 業績見頂or純粹換手？",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776162600.A.DB2.html",
+      "author": "memory_analyst2",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 115年04月14日 三大法人買賣金額統計表",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776159000.A.EC3.html",
+      "author": "data_poster",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 外資個股買賣超排行 4/14",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776160800.A.FD4.html",
+      "author": "data_poster",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 4/14信用交易 融資融券變化",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776163200.A.AE5.html",
+      "author": "margin_data",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "🏦",
+      "title": "[標的] 台積電 2330 多 法說前收2055天價 布局觀點",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776164400.A.BF6.html",
+      "author": "tsmc_bull2",
+      "date": "4/14",
+      "hot": true
+    },
+    {
+      "cat": "target",
+      "icon": "🤖",
+      "title": "[標的] 上銀 2049 多 機器人概念補漲啟動 六檔漲停確認",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776166200.A.CA7.html",
+      "author": "hiwin_bull",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "🖥️",
+      "title": "[標的] 友達 2409 多 外資狂買11萬張 面板週期反轉確認",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776167000.A.DB8.html",
+      "author": "auo_bull",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "📡",
+      "title": "[標的] 富采 3714 多 磷化銦InP光通訊漲停 聯亞第二確認",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776169800.A.EC9.html",
+      "author": "epistar_bull",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 機器人今天六檔漲停 明天繼續追進合適嗎",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776168600.A.FDA.html",
+      "author": "robot_qna",
+      "date": "4/14",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 外資買超689億 面板股友達群創還可以繼續追嗎",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776171600.A.AEB.html",
+      "author": "panel_qna",
+      "date": "4/14",
+      "hot": false
+    }
+  ],
+  "metrics": [
+    {
+      "label": "台股收盤",
+      "value": "36,296.12",
+      "sub": "+838.83點(+2.37%)，盤中最高36,341.44，創歷史新高",
+      "color": "green"
+    },
+    {
+      "label": "台積電股價",
+      "value": "2,055元",
+      "sub": "+65元(+3.27%)，市值53.29兆，天價新高",
+      "color": "green"
+    },
+    {
+      "label": "外資買超",
+      "value": "689.08億",
+      "sub": "史上第5大，面板+台塑+機器人全面進場",
+      "color": "green"
+    },
+    {
+      "label": "成交金額",
+      "value": "9,735.24億",
+      "sub": "58檔漲停，資金全面回流",
+      "color": "green"
+    },
+    {
+      "label": "南亞科",
+      "value": "220元 (-2.44%)",
+      "sub": "法說後外資砍倉4.16萬張，持股降至9.49%",
+      "color": "red"
+    }
+  ]
+}
