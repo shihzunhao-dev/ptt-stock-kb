@@ -1,0 +1,280 @@
+{
+  "date": "2026-04-16",
+  "weekday": "三",
+  "summary": "台積電Q1法說超預期(EPS 22.08/毛利率66.2%) · 台股收37,132創歷史新高市值超越英國成全球第7 · 台新證17億錯帳未完成申報違規",
+  "events": [
+    {
+      "type": "tsmc",
+      "title": "台積電Q1 2026法說大爆發！EPS 22.08元歷史新高、毛利率66.2%、Q2指引強勁上調",
+      "body": "台積電（2330）4月16日下午14:00舉行Q1 2026法說會，繳出超越市場預期的成績單。Q1合併營收1兆1,341億元（年增35.1%）、稅後淨利5,724.8億元（年增58.3%）、每股稀釋盈餘22.08元，三項指標均創歷史新高。毛利率66.2%、營業利益率58.1%，遠優於先前財測高標。Q2展望：合併營收390至402億美元（季增8.64～11.98%）、毛利率65.5～67.5%，全年美元營收成長目標首度上調至「超過30%」。PTT股板法說直播串湧入大批人潮，網友直呼「相信魏哲家，明年換新家」，設備股三費連帶受惠，萬潤（6187）在法說前一天即以1,070元闖進千金俱樂部。",
+      "impacts": [
+        {"label": "台積電 Q1 EPS 22.08元 歷史新高(+58.3%)", "dir": "up"},
+        {"label": "毛利率 66.2%，超越財測區間高標", "dir": "up"},
+        {"label": "Q2 Revenue $390-402億美元 季增9-12%", "dir": "up"},
+        {"label": "全年USD營收成長目標上調至>30%", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "台股收37,132創歷史新高！三大法人買超515億，台灣市值4.14兆美元超越英國躍居全球第7大",
+      "body": "4月16日（三）台股收盤37,132.02點，上漲409.88點（+1.12%），盤中最高37,135.55點，雙雙創下歷史紀錄，為台股連第5個交易日收盤新高。成交值8,867.92億元。三大法人合計買超515.22億元，其中外資及陸資買超440.08億元（創今年第7高）、自營商買超118.45億元、投信賣超43.3億元。台灣股市總市值隨指數攀高，突破4.14兆美元，超越英國的4.09兆美元，躍居全球第7大股市（僅次於美國、中國、日本、印度、香港、法國）。法人指出，AI供應鏈吸引國際資金持續流入，台積電法說超預期再度強化多頭信心。",
+      "impacts": [
+        {"label": "台股 37,132.02 (+409.88, +1.12%) 歷史新高", "dir": "up"},
+        {"label": "台灣市值 4.14兆美元 超越英國 全球第7", "dir": "up"},
+        {"label": "外資買超 440.08億，三大法人515億", "dir": "up"},
+        {"label": "台股連5日收盤新高", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "台新證券錯帳風暴惡化：17億元9,000筆未完成申報，已違反證交所規章恐遭罰款",
+      "body": "台新證券（前身元富證券）4月14日因系統異常產生逾9,000筆錯帳，申報錯帳總額超過17億元，遠超原市場預估的1億元。依規，台新證須在4月16日上午10時前完成錯帳申報，但因須逐筆與客戶釐清，未能如期完成，已違反證交所規章，最重恐處10萬元違約金。台新證表示，此次事故源於與元富合併後系統整合期間程式異常，導致投資人成交回報中斷、誤判重複下單，公司已宣示全額承擔反向沖銷損失，確保客戶不受損。事件同日，國泰世華App亦傳出交易延遲，引發外界對券商系統整合能力的廣泛質疑。",
+      "impacts": [
+        {"label": "台新證錯帳 17億元 9,000筆 規模超預期", "dir": "down"},
+        {"label": "未如期完成申報 已違規 恐遭罰款10萬", "dir": "down"},
+        {"label": "全額賠付聲明 客戶損失由公司承擔", "dir": "neutral"},
+        {"label": "券商系統整合風險引發市場關注", "dir": "down"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "美股納斯達克、標普500雙創歷史新高！美企財報季開門紅，AI景氣持續提振信心",
+      "body": "4月16日美股三大指數中，納斯達克綜合指數上漲1.59%收24,016.02點、標普500上漲0.80%收7,022.95點，兩者均創歷史新高；道瓊工業指數小跌0.15%收48,463.72點。本周財報季開門紅，大型科技股表現強勁，AI基礎設施需求確認性高，市場對聯準會降息路徑預期也趨於穩定。台積電ADR（TSM）同步走強，反映法說超預期預期。美銀最新調查顯示82%基金經理人欲減持美股，但實際資金流向顯示機構持續加碼科技龍頭，多空拉鋸仍偏多方。",
+      "impacts": [
+        {"label": "納斯達克 24,016 +1.59% 歷史新高", "dir": "up"},
+        {"label": "標普500 7,022.95 +0.80% 歷史新高", "dir": "up"},
+        {"label": "台積電ADR 同步走強 法說超預期", "dir": "up"},
+        {"label": "道瓊 48,463 -0.15% 小幅回落", "dir": "down"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "連鎖餐飲業千店戰爭白熱化！麥味登繼八方雲集後台灣第二品牌突破1,000店",
+      "body": "繼八方雲集後，台灣連鎖餐飲再添一千店品牌。麥味登正式突破1,000家門市，成為台灣第2個達成此里程碑的連鎖早餐品牌，顯示台灣餐飲連鎖化程度持續加速。PTT股票板就相關餐飲上市股進行討論，包含揚秦國際、安心食品等相關標的，市場關注連鎖餐飲規模化後的獲利能力與展店速度。整體趨勢顯示台灣消費市場仍具韌性，品牌連鎖化為近期消費股討論焦點之一。",
+      "impacts": [
+        {"label": "麥味登突破1,000店 台灣連鎖化加速", "dir": "neutral"},
+        {"label": "餐飲供應鏈及連鎖概念股受關注", "dir": "neutral"}
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "cat": "other",
+      "icon": "💬",
+      "title": "[情報] 2026/04/16 盤中閒聊",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776299670.A.100.html",
+      "author": "laptic",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🍱",
+      "title": "[新聞] 連鎖餐飲業 火爆千店大戰 繼八方雲集 揚秦崛起台灣第二品牌",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776293717.A.36D.html",
+      "author": "food_chain",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台積電法說會Q1 EPS 22.08創新高！毛利率66.2% Q2指引強勁",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776320400.A.1A0.html",
+      "author": "tsmc_result",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🌏",
+      "title": "[新聞] 台股站上3萬7創新高 市值躍全球第7超越英國4.14兆美元",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776321600.A.2B1.html",
+      "author": "mkt_cap_news",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "other",
+      "icon": "📺",
+      "title": "[Live] 台積電法說會 LIVE",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776318029.A.62E.html",
+      "author": "tsmc_live",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台新證券系統大當機 錯帳9000筆將全額承擔",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776322267.A.D86.html",
+      "author": "taishin_news",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 獨家／台新證錯帳金額揭曉！竟超越17億元",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776328069.A.DA2.html",
+      "author": "taishin_exclusive",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🏦",
+      "title": "[新聞] 台新證券錯帳風暴擴大！未如期完成申報 違反證交所規章",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776338589.A.A55.html",
+      "author": "taishin_update",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "💰",
+      "title": "[新聞] 三大法人買超515億元！台股連5日創高衝過3萬7 台積電「績」情待續",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776330000.A.3A2.html",
+      "author": "close_daily",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "📈",
+      "title": "[新聞] 美股納斯達克標普500雙創歷史新高 企業財報季開門紅",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776340800.A.4B3.html",
+      "author": "us_market",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "analysis",
+      "icon": "🏦",
+      "title": "[心得] 台積電法說超爆強 EPS 22.08毛利率66.2% 後市看法與操作策略",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776325200.A.5C0.html",
+      "author": "tsmc_after_view",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "🌏",
+      "title": "[心得] 台股市值超越英國成全球第7！台灣股市的歷史性時刻",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776326400.A.6D1.html",
+      "author": "tw_market_hist",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "analysis",
+      "icon": "🏦",
+      "title": "[心得] 台新證錯帳事件整理 9000筆17億 到底誰的責任",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776335600.A.7E2.html",
+      "author": "taishin_analysis",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "🏦",
+      "title": "[標的] 台積電 2330 多 法說超強 Q2指引上調 多頭確立",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776323800.A.8B5.html",
+      "author": "tsmc_target_bull",
+      "date": "4/16",
+      "hot": true
+    },
+    {
+      "cat": "target",
+      "icon": "🏦",
+      "title": "[標的] 台積電設備股 多 法說後概念股操作佈局",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776327000.A.9C6.html",
+      "author": "supply_chain_bull",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 115年04月16日 三大法人買賣金額統計表",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776331800.A.AA7.html",
+      "author": "data_poster",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 外資個股買賣超排行 4/16",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776333600.A.BB8.html",
+      "author": "data_poster",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 4/16 信用交易 融資融券變化",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776335400.A.CC9.html",
+      "author": "margin_data",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 台積電法說超預期 明天還能繼續追嗎",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776340200.A.DD0.html",
+      "author": "tsmc_qna",
+      "date": "4/16",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 台新證錯帳受害者 我的帳戶怎麼辦",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1776342000.A.EE1.html",
+      "author": "taishin_victim",
+      "date": "4/16",
+      "hot": false
+    }
+  ],
+  "metrics": [
+    {
+      "label": "台股收盤",
+      "value": "37,132.02",
+      "sub": "+409.88點(+1.12%)，盤中最高37,135.55，連5日歷史新高",
+      "color": "green"
+    },
+    {
+      "label": "台積電股價",
+      "value": "2,085元",
+      "sub": "法說超預期，Q1 EPS 22.08元歷史新高，毛利率66.2%",
+      "color": "green"
+    },
+    {
+      "label": "三大法人買超",
+      "value": "515.22億",
+      "sub": "外資+440億(今年第7高)，投信-43億，自營商+118億",
+      "color": "green"
+    },
+    {
+      "label": "台灣市值",
+      "value": "4.14兆美元",
+      "sub": "超越英國4.09兆，躍居全球第7大股市",
+      "color": "green"
+    },
+    {
+      "label": "成交金額",
+      "value": "8,867.92億",
+      "sub": "量縮但多頭強勢，台積電法說行情延續",
+      "color": "blue"
+    },
+    {
+      "label": "台新證錯帳",
+      "value": "17億元 9,000筆",
+      "sub": "未如期完成申報已違規，全額賠付但聲譽受損",
+      "color": "red"
+    }
+  ]
+}
