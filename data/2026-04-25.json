@@ -1,0 +1,205 @@
+{
+  "date": "2026-04-25",
+  "weekday": "六",
+  "summary": "Intel財報爆走費半連18天新高·Nvidia市值首破5兆美元·司法部撤鮑爾調查沃許接Fed之路暢通",
+  "events": [
+    {
+      "type": "market",
+      "title": "Intel Q1 2026財報爆走！股價飆24%創26年新高，Tesla 14A晶圓代工大單確立翻身契機",
+      "body": "Intel(INTC)於4月24日（週五）盤後公布2026年第一季財報，各項指標大幅超過市場預期：調整後EPS 0.29美元（預估0.01美元）、營收136億美元（預估124億美元，年增7%）、Q2展望營收138~148億美元中值遠超市場預期的130億美元。資料中心暨AI（DCAI）部門年增22%，晶圓代工業務年增16%。特斯拉（Tesla）宣布採用Intel最新14A製程晶片打造「TeraFab AI」計算平台，為Intel晶圓代工業務帶來關鍵外部客戶突破。INTC單日大漲23.6%，為1987年以來最佳單日表現，股價突破82美元並超越2000年網路泡沫時期歷史高點，終結長達26年低迷。Intel 2026年迄今累計漲幅已逾80%，CEO陳立武（Lip-Bu Tan）帶領的復甦計畫獲市場肯定。惟GAAP仍鉅虧（Q1淨損42.8億美元），晶圓廠轉型成本仍重，鄉民熱議「Intel是真的翻身了嗎？」。",
+      "impacts": [
+        {"label": "INTC +23.6%，1987年以來最佳單日表現", "dir": "up"},
+        {"label": "調整後EPS $0.29大幅超預估$0.01", "dir": "up"},
+        {"label": "Tesla 14A晶圓代工合作確立，外部訂單破局", "dir": "up"},
+        {"label": "股價突破2000年網路泡沫歷史高點，創26年新高", "dir": "up"},
+        {"label": "GAAP仍鉅額虧損（Q1淨損42.8億美元），晶圓廠轉型成本沉重", "dir": "down"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "Nvidia市值首度突破5兆美元！收盤208美元創歷史新高，費半指數連漲18天再破紀錄",
+      "body": "英偉達（Nvidia）於4月24日收盤208.27美元（+4.3%），市值正式突破5兆美元，成為史上首家市值超越5兆美元的晶片公司。受Intel財報爆走帶動，AMD大漲13.91%、高通（Qualcomm）勁揚11.12%，費城半導體指數（SOX）連續第18個交易日收漲創新高，刷新「費半最長連漲紀錄」。市場憧憬Nvidia自身財報（預計5月）將持續超預期，加上超大型科技公司（Hyperscaler）資本支出持續擴張，AI算力需求有增無減。PTT鄉民熱議：「費半連18天...這輩子從沒見過」、「NVDA 5兆美元比台灣GDP還高」、「AMD一天漲14%，我的00892笑了」。",
+      "impacts": [
+        {"label": "Nvidia市值首破5兆美元，收208.27美元創歷史新高", "dir": "up"},
+        {"label": "AMD +13.91%，高通 +11.12%，半導體全面狂歡", "dir": "up"},
+        {"label": "費半指數連漲18天，刷新史上最長連漲紀錄", "dir": "up"},
+        {"label": "AI算力需求強勁，Hyperscaler資本支出持續超預期", "dir": "up"}
+      ]
+    },
+    {
+      "type": "market",
+      "title": "美股週五三大指數分化：標普那斯達克雙創歷史新高，道瓊小跌0.16%",
+      "body": "4月24日（週五）美股收盤：標準普爾500指數上漲0.8%至7,165.08點，創歷史收盤新高；那斯達克綜合指數上漲1.63%至24,836.60點，同樣創歷史收盤新高；道瓊工業指數則小跌79.61點（-0.16%）至49,230.71點。分化原因在於Intel、AMD、Nvidia等科技半導體股大漲，但軟體股（如Oracle -5%）拖累道瓊表現。那斯達克創新高主因是半導體族群大漲，加上蘋果（Apple）等科技股上揚。台積電ADR（TSM）盤後追高，外資法人對台股下週繼續看多，看好台股本週收盤38,932點後有望進一步衝高。鄉民週末熱議：「道瓊跌但那斯達克和標普創新高，是好還是壞？」、「外資下週應該繼續大買台積電」。",
+      "impacts": [
+        {"label": "S&P 500收7,165.08（+0.8%），歷史新高", "dir": "up"},
+        {"label": "那斯達克收24,836.60（+1.63%），歷史新高", "dir": "up"},
+        {"label": "道瓊小跌0.16%至49,230.71，軟體股拖累分化", "dir": "neutral"},
+        {"label": "台積電ADR盤後追高，台股下週外資望延續買超", "dir": "up"}
+      ]
+    },
+    {
+      "type": "fed",
+      "title": "美司法部撤銷鮑爾刑事調查！沃許接掌聯準會之路暢通，市場關注鷹派新主席政策走向",
+      "body": "美國司法部（DOJ）於4月24日宣布撤銷對聯準會主席鮑爾（Jerome Powell）的刑事調查（源於聯準會大樓翻修工程費用超支爭議）。此前，北卡羅萊納州共和黨參議員Tom Tillis以「鮑爾調查尚未結束」為由，實質阻擋特朗普提名的凱文·沃許（Kevin Warsh）的聯準會主席確認聽證。DOJ撤調後，此一障礙解除，Warsh確認程序將加速。市場分析：沃許素以「鷹派」著稱，預期就任後可能採取比鮑爾更保守的降息立場，短線利率觀望壓力增。民主黨參議員伊莉莎白·華倫批評：此舉是「為特朗普的提線傀儡清路」，聯準會獨立性疑慮升溫。PTT鄉民：「美聯準會換人，降息計畫要重估」、「鷹派Warsh上任，台股利率環境要留意」。",
+      "impacts": [
+        {"label": "DOJ撤鮑爾調查，Warsh接Fed確認之路暢通", "dir": "neutral"},
+        {"label": "鷹派Warsh就任預期，降息時間表可能延後", "dir": "down"},
+        {"label": "Fed人事確定帶來政策透明度，短期不確定性下降", "dir": "up"},
+        {"label": "Fed獨立性遭質疑，政治介入爭議持續", "dir": "down"}
+      ]
+    },
+    {
+      "type": "tsmc",
+      "title": "台積電CEO警告：英特爾晶圓代工是「強大競爭對手」，我們不可輕視",
+      "body": "Intel Q1財報強勁帶動股價大漲後，媒體揭露台積電CEO魏哲家（C.C. Wei）在近期法說中正式坦承警告：「我們將英特爾視為強大的競爭對手（formidable competitor），我們不可輕視它」。此聲明被市場解讀為台積電首度公開承認Intel晶圓代工業務的長線威脅。目前Intel外部代工Q1營收仍僅1.74億美元，規模極小，但Tesla 14A合作帶來突破信心。分析師評估：短期（2~3年內）Intel晶圓代工對台積電營收影響有限，但若Intel持續取得大客戶，長線競爭格局將改變。台積電市值仍逾56兆元，N2/N3先進製程排單排至2028年，技術代差仍大，PTT鄉民多認為短期「台積電無虞」。",
+      "impacts": [
+        {"label": "台積電首度公開承認Intel晶圓代工的競爭威脅", "dir": "down"},
+        {"label": "Intel外部代工Q1僅1.74億美元，短期影響有限", "dir": "neutral"},
+        {"label": "Tesla 14A合作提升Intel晶圓代工可信度", "dir": "neutral"},
+        {"label": "台積電N2/N3產能滿載，技術代差2~3代，護城河仍深", "dir": "up"}
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "cat": "other",
+      "icon": "💬",
+      "title": "[閒聊] 2026/04/25 週末閒聊",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777078800.A.CB0.html",
+      "author": "laptic",
+      "date": "4/25",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "📈",
+      "title": "[新聞] Intel Q1財報大超預期！股價狂飆24%突破26年歷史高點",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777075200.A.3F7.html",
+      "author": "intc_surge25",
+      "date": "4/25",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "🚀",
+      "title": "[新聞] 輝達市值衝破5兆美元 收盤208元創歷史新高",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777075800.A.B21.html",
+      "author": "nvda_5t_news",
+      "date": "4/25",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "💹",
+      "title": "[新聞] 費半指數連漲18天創新高！AMD +14% 高通 +11%",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777082800.A.2E5.html",
+      "author": "sox18_news",
+      "date": "4/25",
+      "hot": true
+    },
+    {
+      "cat": "news",
+      "icon": "⚖️",
+      "title": "[新聞] 美司法部撤銷鮑爾刑事調查 沃許接Fed主席之路暢通",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777079400.A.6D8.html",
+      "author": "fed_warsh25",
+      "date": "4/25",
+      "hot": false
+    },
+    {
+      "cat": "news",
+      "icon": "🏭",
+      "title": "[新聞] 台積電：英特爾晶圓代工是強大競爭對手 不可輕視",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777081200.A.A43.html",
+      "author": "tsmc_intl25",
+      "date": "4/25",
+      "hot": false
+    },
+    {
+      "cat": "target",
+      "icon": "🎯",
+      "title": "[標的] INTC 英特爾 多（Tesla 14A授單 Q1爆走）",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777083600.A.71A.html",
+      "author": "intc_bull25",
+      "date": "4/25",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "💡",
+      "title": "[心得] 台股38932後 下週多方訊號還能繼續嗎",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777086000.A.9C2.html",
+      "author": "bull_wk_review",
+      "date": "4/25",
+      "hot": true
+    },
+    {
+      "cat": "analysis",
+      "icon": "🐻",
+      "title": "[心得] 空軍週末取暖區 38932已成過去式了",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777089600.A.F34.html",
+      "author": "bear_weekend25",
+      "date": "4/25",
+      "hot": true
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] Intel大漲 台股有哪些受惠股可以買？",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777093200.A.8B2.html",
+      "author": "intc_qna25",
+      "date": "4/25",
+      "hot": false
+    },
+    {
+      "cat": "qna",
+      "icon": "❓",
+      "title": "[請益] 00662富邦NASDAQ vs 00929台灣科技 哪個好追？",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777096800.A.5C6.html",
+      "author": "etf_qna25",
+      "date": "4/25",
+      "hot": false
+    },
+    {
+      "cat": "data",
+      "icon": "📊",
+      "title": "[情報] 0424 信用交易融資融券週報 融資餘額4308億",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1777100400.A.D4E.html",
+      "author": "coconing",
+      "date": "4/25",
+      "hot": false
+    }
+  ],
+  "metrics": [
+    {
+      "label": "那斯達克指數",
+      "value": "24,836.60",
+      "sub": "4/24週五收盤+1.63%，創歷史新高，Intel/AMD/Nvidia帶動費半狂飆",
+      "color": "green"
+    },
+    {
+      "label": "標普500指數",
+      "value": "7,165.08",
+      "sub": "4/24收盤+0.8%，創歷史新高，道瓊小跌0.16%至49,230.71分化",
+      "color": "green"
+    },
+    {
+      "label": "Intel股價(INTC)",
+      "value": "$82.57",
+      "sub": "Q1財報大超預期，單日+23.6%，1987年來最佳，突破2000年歷史高點",
+      "color": "green"
+    },
+    {
+      "label": "Nvidia市值",
+      "value": "5兆美元",
+      "sub": "收208.27美元(+4.3%)，史上首家市值突破5兆美元的晶片公司",
+      "color": "green"
+    },
+    {
+      "label": "費半指數連漲",
+      "value": "18天",
+      "sub": "4/24為第18個連漲日，刷新費半指數史上最長連漲紀錄",
+      "color": "purple"
+    }
+  ]
+}
